@@ -1,4 +1,4 @@
-# MonthlyBudgetProgram
+# Monthly Budget Program
 A program that processes a user’s monthly budget. This program can easily be enhanced to process any number of budget items. 
 
 The program have a menu that is called from inside Main. Each item below are functions that will be call from Main.
